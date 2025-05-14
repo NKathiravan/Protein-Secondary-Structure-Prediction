@@ -97,10 +97,3 @@ We explore replacing classical Transformer components with **quantum-inspired mo
 Feel free to fork and contribute to improvements or add support for Q3 classification. All ideas for better hybrid architectures or evaluation techniques are welcome!
 
 ---
-
-## 📄 License
-
-MIT License
-
----
-
