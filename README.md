@@ -62,7 +62,7 @@ We explore replacing classical Transformer components with **quantum-inspired mo
 - **Loss Function**: Cross-entropy (per token), padded positions masked using attention masks.
 - **Optimizer**: Adam (`lr = 1e-4`)
 - **Batch Size**: 32
-- **Epochs**: 25
+- **Epochs**: 25 - 100
 - **Metrics**: Accuracy, Precision, Recall, F1-score on validation set
 
 ---
